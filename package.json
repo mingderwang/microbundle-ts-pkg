@@ -1,5 +1,5 @@
 {
-  "name": "microbundle-ts-pkg",
+  "name": "@muzamint/microbundle-ts-pkg",
   "description": "A TypeScript npm package skeleton/starter project with microbundle, AVA and XO",
   "version": "0.0.2",
   "source": "src/main.ts",
