@@ -1,5 +1,7 @@
 ![Build](https://github.com/HugoDF/buttondown/workflows/Build%20&%20test/badge.svg)
 
+* generated from HugoDF/microbundle-ts-pkg
+
 microbundle-ts-pkg: A TypeScript npm package skeleton/starter project with microbundle, AVA and XO
 
 Comes with:

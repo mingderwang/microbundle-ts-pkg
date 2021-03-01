@@ -52,11 +52,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HugoDF/microbundle-ts-pkg.git"
+    "url": "git+https://github.com/mingderwang/microbundle-ts-pkg.git"
   },
-  "author": "Hugo",
+  "author": "Ming-der Wang <mingderwang@gmail.com>",
   "bugs": {
-    "url": "https://github.com/HugoDF/microbundle-ts-pkg/issues"
+    "url": "https://github.com/mingderwang/microbundle-ts-pkg/issues"
   },
-  "homepage": "https://github.com/HugoDF/microbundle-ts-pkg#readme"
+  "homepage": "https://github.com/mingderwang/microbundle-ts-pkg#readme"
 }
